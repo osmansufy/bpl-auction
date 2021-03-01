@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Mashrafi",
+    "image": "https://ss.thgim.com/cricket/article27263506.ece/alternates/FREE_380/mashrafe-mortazajpg",
+    "salary": 50000,
+    "jersey_number": 1
+  }, {
+    "id": 2,
+    "name": "Sakib",
+    "image": "https://s.ndtvimg.com/images/entities/300/shakib-al-hasan-792.png",
+    "salary": 90000,
+    "jersey_number": 2
+  }, {
+    "id": 3,
+    "name": "Tamim",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/287.png",
+    "salary": 40000,
+    "jersey_number": 3
+  }, {
+    "id": 4,
+    "name": "Mustafiz",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1594.png",
+    "salary": 30000,
+    "jersey_number": 4
+  }, {
+    "id": 5,
+    "name": "Rubel",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1135.png",
+    "salary": 20000,
+    "jersey_number": 5
+  }, {
+    "id": 6,
+    "name": "Liton",
+    "image": "https://cdn.wisden.com/wp-content/uploads/2019/05/Liton-DAs-e1557932559815.jpg",
+    "salary": 10000,
+    "jersey_number": 6
+  }, {
+    "id": 7,
+    "name": "Musfiqur rahman",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/491.png",
+    "salary": 40000,
+    "jersey_number": 7
+  }, {
+    "id": 8,
+    "name": "Alamin",
+    "image": "https://s.ndtvimg.com/images/entities/300/al-amin-hossain-1676.png",
+    "salary": 1000,
+    "jersey_number": 8
+  }, {
+    "id": 9,
+    "name": "Imrul Kayes",
+    "image": "https://s.ndtvimg.com/images/entities/300/imrul-kayes-1230.png",
+    "salary": 1000,
+    "jersey_number": 9
+  }, {
+    "id": 10,
+    "name": "Nasir Hossion",
+    "image": "https://cdn.wisden.com/wp-content/uploads/2017/11/GettyImages-514185100-e1520258816642.jpg",
+    "salary": 1000,
+    "jersey_number": 10
+  }]

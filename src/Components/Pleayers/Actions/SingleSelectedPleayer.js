@@ -6,7 +6,7 @@ const SingleSelectedPleayer = (props) => {
        <>
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">{name}</h5>
-        <small>{salary}</small>
+        <small>Salary${salary}</small>
       </div>
     
       <small>Jersey Number:{jersey_number}</small>

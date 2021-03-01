@@ -18,7 +18,7 @@ console.log(props?.pleayers);
   
 </div>
 <h3 className="my-5">Selected pleayes:{props?.pleayers?.length}</h3>
-<h4>Total Spand Money:{props.pleayers.reduce((accumulator,pleayer)=>accumulator+pleayer.salary,0)}</h4>
+<h4>Total Spand Money:${props.pleayers.reduce((accumulator,pleayer)=>accumulator+pleayer.salary,0)}</h4>
         </div>
     );
 };
